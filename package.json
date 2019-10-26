@@ -1,0 +1,23 @@
+{
+  "name": "jquery-avanzado-master",
+  "version": "1.0.0",
+  "description": "100 trucos de jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgpicaporte/100_jquery.git"
+  },
+  "author": "Carlos G. Picaporte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgpicaporte/100_jquery/issues"
+  },
+  "homepage": "https://github.com/cgpicaporte/100_jquery#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
