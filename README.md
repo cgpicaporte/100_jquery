@@ -5,3 +5,8 @@ Aquí dejo el repositorio con todos los ejercicios funcionando y su respectivo c
 También lo pueden descargar en caso de que sólo les interesen los ejercicios actualizados.
 
 
+# Para arrancar el servidor
+
+npm install
+
+npm run dev
